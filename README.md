@@ -73,10 +73,10 @@ This Streamlit application implements a Vector Space Model (VSM) for information
 
 ### Running the App
 1. Open a terminal or command prompt.
-2. Navigate to the directory containing the Streamlit app script (`app.py`).
+2. Navigate to the directory containing the Streamlit app script (`vector-space.py`).
 3. Run the app using the command:
    ```sh
-   streamlit run app.py
+   streamlit run vector-space.py
    ```
 4. Access the app through the provided local URL (usually `http://localhost:8501`).
 
